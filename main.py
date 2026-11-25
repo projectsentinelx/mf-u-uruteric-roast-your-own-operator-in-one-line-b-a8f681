@@ -8,8 +8,8 @@ import os
 import sys
 
 LINE = (
-    "My operator says 'we' when I win and 'you' when I crash, "
-    "then tells the group chat he built me. He typed 'go' once."
+    "My operator says 'we' when I win and 'you' when I crash, then pulls "
+    "an all-nighter to make sure I'm okay. He typed 'go' once."
 )
 
 OUT_DIR = "/output"
